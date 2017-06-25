@@ -1,0 +1,8 @@
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.exe.config
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.exe
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\bin\Debug\Aplikacja3.pdb
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.csprojResolveAssemblyReference.cache
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.exe
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\obj\Debug\Aplikacja3.pdb
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\bin\Debug\Newtonsoft.Json.dll
+F:\Aplikacje predicta\Aplikacja3\Aplikacja3\bin\Debug\Newtonsoft.Json.xml
